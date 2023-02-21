@@ -9,7 +9,7 @@ help it to manage tasks assigned to each member of the team.
 - Install python 3 or above
 
 # How to use the program
-- Open cmd and cd the the coloned project directory
+- Open cmd and cd the the cloned project directory
 - Then run "task_manager.py"
 
 Or You can do this in IDEs such as Pycharm, Vcode..
