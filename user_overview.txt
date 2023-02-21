@@ -1,0 +1,49 @@
+User overview report:
+
+Total number of users registered: 7
+Total number of tasks: 8
+
+For username, jj :- 
+Total tasks assigned: 1
+Percentage of the total tasks assigned: 12.5 %
+Percentage of incomplete tasks: 12.5 %
+Percentage of complete tasks: 0.0 %
+Percentage of incomplete tasks that are overdue is: 0.0 %
+
+For username, yohan :- 
+Total tasks assigned: 1
+Percentage of the total tasks assigned: 12.5 %
+Percentage of incomplete tasks: 12.5 %
+Percentage of complete tasks: 0.0 %
+Percentage of incomplete tasks that are overdue is: 0.0 %
+
+For username, bete :- 
+Total tasks assigned: 2
+Percentage of the total tasks assigned: 25.0 %
+Percentage of incomplete tasks: 25.0 %
+Percentage of complete tasks: 0.0 %
+Percentage of incomplete tasks that are overdue is: 50.0 %
+
+For username, amanuel :- 
+Total tasks assigned: 1
+Percentage of the total tasks assigned: 12.5 %
+Percentage of incomplete tasks: 12.5 %
+Percentage of complete tasks: 0.0 %
+Percentage of incomplete tasks that are overdue is: 100.0 %
+
+For username, angel :- 
+Total tasks assigned: 1
+Percentage of the total tasks assigned: 12.5 %
+Percentage of incomplete tasks: 12.5 %
+Percentage of complete tasks: 0.0 %
+Percentage of incomplete tasks that are overdue is: 0.0 %
+
+For username, admin :- 
+Total tasks assigned: 1
+Percentage of the total tasks assigned: 12.5 %
+Percentage of incomplete tasks: 12.5 %
+Percentage of complete tasks: 0.0 %
+Percentage of incomplete tasks that are overdue is: 0.0 %
+
+The following users have no task assigned to them:
+Abel
