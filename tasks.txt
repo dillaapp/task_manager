@@ -1,8 +1,6 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10/10/2019, 20/10/2019, No
 bete, Bete's Title, this is description for bete's task.. This task is important , 16/12/22, 12/02/2023, No
 admin1, klasd sakdlas, lkadssa salkdmadmsd sadmslkmdas sadmaskdmasldkm dmalskdmasd, 20/12/22, 12/12/2023, No
 amanuel, Task for amanuel, This is another task for amanuel , 16/12/22, 20/12/2022, no
 bete, title for bete, sdnsad asldaslkdmas dkjaskdas dasldkasdj, 23/12/22, 12/09/2022, No
 jj, jj tasl title, sdjkladsa jj asdkjlasd kjsdlaksdas  sklajdaskdl jksdas, 23/12/22, 15/10/2023, No
-angel, sjadsakjd, askjdnalsndsa, 28/12/22, 12/03/2023, No
-yohan, yhfghvghv, gvjhvbjhbjhb jbyhgbjh jhbjhh jhgjhgh, 29/12/22, 12/02/2023, No
-admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10/10/2019, 28/12/2023, No

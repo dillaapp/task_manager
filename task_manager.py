@@ -728,49 +728,6 @@ def get_stats(user_overview_file_name, task_overview_file_name):
 
     print("-----------------------------------------------------------------")  # printing a line on the bottom
 
-    # This part was used for task 19
-    """
-    \"""
-     get_stats, function to get some stats from tasks.txt file
-     input: tasks file name  and user file name
-     output: display of stats
-     \"""
-    # Open and read tasks.txt and store the contents in a list called task_lines
-    tasks_lines = read_file(tasks_file_name)
-    # print(tasks_lines)
-
-    # Open and read user.txt and store the contents in a list called user_lines
-    user_lines = read_file(user_file_name)
-    # print(tasks_lines)
-
-    # Total number of tasks
-    total_number_of_tasks = len(tasks_lines)
-
-    # Total number of users
-    total_number_of_users = len(user_lines)
-
-    # Get user that are assigned with tasks
-    busy_users = get_busy_users_list(user_file_name, tasks_file_name)
-
-    # Here we minus busy users number from the total users
-    idle_users = total_number_of_users - len(busy_users)
-
-    print("\nTasks and users Statistics: \n")
-    print("\n-------------------------------------------------------------------------------------------\n")
-
-    # printing some stats
-    print("Details of tasks\n")
-    print("Total number of tasks: " + str(total_number_of_tasks) + "\n")
-    print("\n-------------------------------------------------------------------------------------------\n")
-
-    print("Details of users\n")
-    print("Total number of users: " + str(total_number_of_users))
-
-    print("Total number of idle users: " + str(idle_users))
-    print("Total number of busy users: " + str(busy_users))
-
-    print("\n-------------------------------------------------------------------------------------------\n")
-    """
 
 
 # assign_task, function to add and assign task to users
